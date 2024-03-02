@@ -17,6 +17,8 @@ frida -U -n "Gadget" -l yourscript.js
 
 2 - you can only instrumentate one aplication per time.
 
+3 - xposed modules has been disabled.
+
 ### Why to use?
 Thats simple, dont waste your time repacking others aplication, while you can run the original one.
 
