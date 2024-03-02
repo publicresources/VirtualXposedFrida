@@ -22,3 +22,8 @@ Thats simple, dont waste your time repacking others aplication, while you can ru
 
 ### Releases:
 https://github.com/publicresources/VirtualXposedFrida/releases
+
+
+#### Note
+this is a resigned version of virtual xposed, nothing else was changed only the part where the library is loaded into in the aplication.
+the credits and support must be to the original authors.
