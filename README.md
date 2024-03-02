@@ -1,4 +1,4 @@
-# VirtualxposedFrida
+# VirtualXposedFrida
 Virtual xposed frida is an aplication that implement frida for instrumentation, this virtual auto run the gadget on the startup of any aplication inside of the virtual, making it be possible to run tests on non rooted device without repacking the apk, breaking the signature 
 
 just add your target on the app then you can play with it :)
