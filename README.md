@@ -27,3 +27,9 @@ https://github.com/publicresources/VirtualXposedFrida/releases
 #### Note
 this is a resigned version of virtual xposed, nothing else was changed only the part where the library is loaded into in the aplication.
 the credits and support must be to the original authors.
+https://virtualxposed.com/
+
+
+### Details
+frida gadget version 16.2.1
+virtual xposed version 0.18.2
