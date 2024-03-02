@@ -18,7 +18,7 @@ frida -U -n "Gadget" -l yourscript.js
 2 - you can only instrumentate one aplication per time.
 
 # Why to use?
-its simple, dont Walter your time repacking others aplication, while you can run the original one.
+Thats simple, dont waste your time repacking others aplication, while you can run the original one.
 
 # Releases:
 https://github.com/publicresources/VirtualXposedFrida/releases
