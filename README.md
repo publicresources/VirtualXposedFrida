@@ -4,7 +4,7 @@ Virtual Xposed Frida is an aplication that implement frida for instrumentation, 
 just add your target on the app then you can play with it :)
 
 #Note
-the target aplication will be black screen, because its the gadget awaiting for a frida iteraction.
+the target aplication will be black screen, because its gadget will be awaiting for a frida iteraction.
 
 #Iteration example
 usb
