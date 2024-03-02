@@ -30,6 +30,7 @@ the credits and support must be to the original authors.
 https://virtualxposed.com/
 
 
-### Details
+### Details 
 frida gadget version 16.2.1
+
 virtual xposed version 0.18.2
