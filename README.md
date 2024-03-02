@@ -9,7 +9,7 @@ the target aplication will be black screen, because its gadget will be awaiting 
 #Iteration example
 usb
 ```
-frida -U -n "Gadget" -l yourscript.js
+frida -U -l yourscript.js Gadget
 ```
 
 ### Limitations
