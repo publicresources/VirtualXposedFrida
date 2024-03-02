@@ -12,13 +12,13 @@ usb
 frida -U -n "Gadget" -l yourscript.js
 ```
 
-# Limitations
+### Limitations
 1 - this aplication only support arm64 for now.
 
 2 - you can only instrumentate one aplication per time.
 
-# Why to use?
+### Why to use?
 Thats simple, dont waste your time repacking others aplication, while you can run the original one.
 
-# Releases:
+### Releases:
 https://github.com/publicresources/VirtualXposedFrida/releases
